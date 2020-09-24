@@ -1,0 +1,4 @@
+FPN
+shape = (1536,768,3)
+iou = 0.78
+backbone : efficientnetb3
