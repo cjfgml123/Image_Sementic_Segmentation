@@ -1,13 +1,12 @@
 ## Image Text Semantic Segmentation
 
- colab, python3.6.9, keras2.2.5, tensorflow1.15.1, opencv-python4.2.0 
+ colab , python3.6.9, keras2.2.5, tensorflow1.15.1, opencv-python4.2.0 
 
 
 
 ### 소개
 
 - 만화 이미지를 기반으로 배경과 text를 분리하는 것입니다. (데이터셋은 포토샵을 이용해 수작업으로 구축)
-
 
 <img src="./image/1_2_003.jpg" width="100" height="300">                         <img src="./image/1_2_003_mask.jpg" width="100" height="300">
 
