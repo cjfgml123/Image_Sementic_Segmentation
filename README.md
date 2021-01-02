@@ -1,6 +1,6 @@
 ## Image Text Semantic Segmentation
 
- colab, python3.6.9, keras2.2.5, tensorflow1.15.1, opencv-python4.2.0 
+ colab , python3.6.9, keras2.2.5, tensorflow1.15.1, opencv-python4.2.0 
 
 
 
